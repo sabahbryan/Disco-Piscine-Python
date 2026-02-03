@@ -2,7 +2,7 @@
 
 i = 1
 
-print("What you gotta say? : ")
+print("What you gotta say? : ", end = "")
 
 while i > 0:
     text = input()
