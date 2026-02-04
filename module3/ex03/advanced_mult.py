@@ -9,5 +9,5 @@ while i <= 10:
         k = i * j
         print(f"{k}", end = " ")
         j += 1
-    print()
+    print("")
     i += 1
