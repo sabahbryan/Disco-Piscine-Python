@@ -4,7 +4,6 @@ import math
 
 num = float(input("Enter a number: "))
 
-#up = round(num)
 up = math.ceil(num)
 
 print(up)
