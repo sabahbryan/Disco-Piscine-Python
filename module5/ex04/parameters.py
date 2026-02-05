@@ -4,11 +4,11 @@ import sys
 
 #print(sys.argv)
 
-# start at '1' to ignore "parameters.py"
-i = 1
+# start at '1' to ignore "parameters.py" when "print()"
+#i = 1
 
-while i < len(sys.argv):
+#while i < len(sys.argv):
     #print(sys.argv[i])
-    i += 1
+#    i += 1
 
 print("Number of parameters:", len(sys.argv) - 1)
